@@ -4,7 +4,6 @@
   "main": "socket.js",
   "dependencies": {
     "angular": "~1.2.9",
-    "angular-sockjs": "~0.0.1",
     "sockjs-client": "~0.3.4"
   },
   "devDependencies": {
